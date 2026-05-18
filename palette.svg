@@ -16,23 +16,24 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#0a0a0a"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.98000001"
-     inkscape:cx="445.91836"
-     inkscape:cy="514.79592"
-     inkscape:window-width="2548"
+     inkscape:cx="381.12245"
+     inkscape:cy="445.40816"
+     inkscape:window-width="1270"
      inkscape:window-height="1400"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5" />
+     showborder="true"
+     inkscape:current-layer="layer7" />
   <defs
      id="defs1">
     <linearGradient
@@ -40,7 +41,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_6">
       <stop
-         style="stop-color:#d8cfa9;stop-opacity:1;"
+         style="stop-color:#d6d4c2;stop-opacity:1;"
          offset="0"
          id="stop121" />
     </linearGradient>
@@ -49,7 +50,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_5">
       <stop
-         style="stop-color:#b2b28d;stop-opacity:1;"
+         style="stop-color:#afb09e;stop-opacity:1;"
          offset="0"
          id="stop120" />
     </linearGradient>
@@ -58,7 +59,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_4">
       <stop
-         style="stop-color:#8e9673;stop-opacity:1;"
+         style="stop-color:#898d7c;stop-opacity:1;"
          offset="0"
          id="stop119" />
     </linearGradient>
@@ -67,7 +68,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_3">
       <stop
-         style="stop-color:#6c7b5b;stop-opacity:1;"
+         style="stop-color:#656c5b;stop-opacity:1;"
          offset="0"
          id="stop118" />
     </linearGradient>
@@ -76,7 +77,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_2">
       <stop
-         style="stop-color:#4b6045;stop-opacity:1;"
+         style="stop-color:#434c3d;stop-opacity:1;"
          offset="0"
          id="stop117" />
     </linearGradient>
@@ -85,7 +86,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_1">
       <stop
-         style="stop-color:#2d4730;stop-opacity:1;"
+         style="stop-color:#232e21;stop-opacity:1;"
          offset="0"
          id="stop115" />
     </linearGradient>
@@ -94,7 +95,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_0">
       <stop
-         style="stop-color:#102e1d;stop-opacity:1;"
+         style="stop-color:#001300;stop-opacity:1;"
          offset="0"
          id="stop57" />
     </linearGradient>
@@ -123,7 +124,7 @@
        inkscape:swatch="solid"
        inkscape:label="bg_7">
       <stop
-         style="stop-color:#ffecc7;stop-opacity:1;"
+         style="stop-color:#fffae8;stop-opacity:1;"
          offset="0"
          id="stop30" />
     </linearGradient>
@@ -131,7 +132,7 @@
        id="swatch25"
        inkscape:swatch="solid"
        inkscape:label="cyan"
-       gradientTransform="translate(-5796.6407,2331.1934)">
+       gradientTransform="translate(-2862.4373,1948.2949)">
       <stop
          style="stop-color:#38ac5e;stop-opacity:1;"
          offset="0"
@@ -141,7 +142,7 @@
        id="swatch23"
        inkscape:swatch="solid"
        inkscape:label="magenta"
-       gradientTransform="translate(-5868.6407,2067.1934)">
+       gradientTransform="translate(-3006.4374,1420.2947)">
       <stop
          style="stop-color:#c5566c;stop-opacity:1;"
          offset="0"
@@ -151,7 +152,7 @@
        id="swatch19"
        inkscape:swatch="solid"
        inkscape:label="blue"
-       gradientTransform="translate(-5940.6406,2243.1934)">
+       gradientTransform="translate(-3150.4373,1772.2947)">
       <stop
          style="stop-color:#3397a3;stop-opacity:1;"
          offset="0"
@@ -161,7 +162,7 @@
        id="swatch18"
        inkscape:swatch="solid"
        inkscape:label="yellow"
-       gradientTransform="translate(-5387.136,2427.9656)">
+       gradientTransform="translate(-2668.9327,2221.0671)">
       <stop
          style="stop-color:#d4a01b;stop-opacity:1"
          offset="0"
@@ -171,7 +172,7 @@
        id="swatch10"
        inkscape:swatch="solid"
        inkscape:label="green"
-       gradientTransform="translate(-6084.6406,2419.1934)">
+       gradientTransform="translate(-3438.4373,2124.2949)">
       <stop
          style="stop-color:#93b100;stop-opacity:1;"
          offset="0"
@@ -181,7 +182,7 @@
        id="swatch8"
        inkscape:label="red"
        inkscape:swatch="solid"
-       gradientTransform="translate(-6156.6406,2683.1933)">
+       gradientTransform="translate(-3582.4373,2652.2948)">
       <stop
          style="stop-color:#cf2b2a;stop-opacity:1;"
          offset="0"
@@ -567,6 +568,246 @@
        y1="255.53906"
        x2="598.97931"
        y2="255.53906" />
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="magenta_bright"
+       gradientTransform="translate(-3246.4374,1456.2947)"
+       id="linearGradient8265">
+      <stop
+         style="stop-color:#b83755;stop-opacity:1"
+         offset="0"
+         id="stop23-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="purple_bright"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient9977">
+      <stop
+         style="stop-color:#516384;stop-opacity:1"
+         offset="0"
+         id="stop103-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="blue_bright"
+       gradientTransform="translate(-3390.4373,1808.2948)"
+       id="linearGradient6379">
+      <stop
+         style="stop-color:#237e86;stop-opacity:1"
+         offset="0"
+         id="stop19-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="cyan_bright"
+       gradientTransform="translate(-3102.4374,1984.2948)"
+       id="linearGradient6909">
+      <stop
+         style="stop-color:#289148;stop-opacity:1"
+         offset="0"
+         id="stop25-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="green_bright"
+       gradientTransform="translate(-3678.4373,2160.2949)"
+       id="linearGradient5459">
+      <stop
+         style="stop-color:#748a00;stop-opacity:1"
+         offset="0"
+         id="stop10-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="yellow_bright"
+       gradientTransform="translate(-2908.9327,2257.067)"
+       id="linearGradient1263">
+      <stop
+         style="stop-color:#b37f10;stop-opacity:1"
+         offset="0"
+         id="stop18-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="orange_bright"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient8606">
+      <stop
+         style="stop-color:#ae4b0f;stop-opacity:1"
+         offset="0"
+         id="stop36-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:label="red_bright"
+       inkscape:swatch="solid"
+       gradientTransform="translate(-3822.4373,2688.2947)"
+       id="linearGradient3680">
+      <stop
+         style="stop-color:#b01d1d;stop-opacity:1"
+         offset="0"
+         id="stop8-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="magenta_dim"
+       gradientTransform="translate(-4407.0696,1728.8665)"
+       id="linearGradient32">
+      <stop
+         style="stop-color:#b64b64;stop-opacity:1"
+         offset="0"
+         id="stop23-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="purple_dim"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient1033">
+      <stop
+         style="stop-color:#656f82;stop-opacity:1"
+         offset="0"
+         id="stop103-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="blue_dim"
+       gradientTransform="translate(-4515.0695,1992.8665)"
+       id="linearGradient2242">
+      <stop
+         style="stop-color:#328289;stop-opacity:1"
+         offset="0"
+         id="stop19-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="cyan_dim"
+       gradientTransform="translate(-4299.0696,2124.8666)"
+       id="linearGradient459">
+      <stop
+         style="stop-color:#389354;stop-opacity:1"
+         offset="0"
+         id="stop25-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="green_dim"
+       gradientTransform="translate(-4731.0695,2256.8666)"
+       id="linearGradient3252">
+      <stop
+         style="stop-color:#819304;stop-opacity:1"
+         offset="0"
+         id="stop10-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="yellow_dim"
+       gradientTransform="translate(-3997.5649,2309.6388)"
+       id="linearGradient127">
+      <stop
+         style="stop-color:#b6861f;stop-opacity:1"
+         offset="0"
+         id="stop18-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="orange_dim"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient9414">
+      <stop
+         style="stop-color:#b2521d;stop-opacity:1"
+         offset="0"
+         id="stop36-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:label="red_dim"
+       inkscape:swatch="solid"
+       gradientTransform="translate(-4839.0695,2652.8665)"
+       id="linearGradient6099">
+      <stop
+         style="stop-color:#b22d2d;stop-opacity:1"
+         offset="0"
+         id="stop8-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="magenta"
+       gradientTransform="translate(-3006.4374,1420.2947)"
+       id="linearGradient1924">
+      <stop
+         style="stop-color:#a63950;stop-opacity:1"
+         offset="0"
+         id="stop23-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="purple"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient6701">
+      <stop
+         style="stop-color:#505c75;stop-opacity:1"
+         offset="0"
+         id="stop103-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="blue"
+       gradientTransform="translate(-3150.4373,1772.2947)"
+       id="linearGradient6053">
+      <stop
+         style="stop-color:#246c75;stop-opacity:1"
+         offset="0"
+         id="stop19-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="cyan"
+       gradientTransform="translate(-2862.4373,1948.2949)"
+       id="linearGradient51">
+      <stop
+         style="stop-color:#298044;stop-opacity:1"
+         offset="0"
+         id="stop25-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="green"
+       gradientTransform="translate(-3438.4373,2124.2949)"
+       id="linearGradient76">
+      <stop
+         style="stop-color:#637600;stop-opacity:1"
+         offset="0"
+         id="stop10-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="yellow"
+       gradientTransform="translate(-2668.9327,2221.0671)"
+       id="linearGradient6173">
+      <stop
+         style="stop-color:#9f7614;stop-opacity:1"
+         offset="0"
+         id="stop18-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:swatch="solid"
+       inkscape:label="orange"
+       gradientTransform="translate(-5942.9515,1328.7807)"
+       id="linearGradient7463">
+      <stop
+         style="stop-color:#9a4613;stop-opacity:1"
+         offset="0"
+         id="stop36-1-1-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:label="red"
+       inkscape:swatch="solid"
+       gradientTransform="translate(-3582.4373,2652.2948)"
+       id="linearGradient5175">
+      <stop
+         style="stop-color:#9d2020;stop-opacity:1"
+         offset="0"
+         id="stop8-1-1-1" />
+    </linearGradient>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -590,7 +831,7 @@
          x="-610.61395"
          y="921.72461"
          id="text462-9"
-         inkscape:label="magenta_bold"
+         inkscape:label="magenta_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan462-7"
@@ -604,7 +845,7 @@
          height="36"
          x="-662.03802"
          y="898.61255"
-         inkscape:label="magenta_bold"
+         inkscape:label="magenta_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -612,7 +853,7 @@
          x="-610.61395"
          y="877.72467"
          id="text463-1"
-         inkscape:label="purple_bold"
+         inkscape:label="purple_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan463-2"
@@ -626,7 +867,7 @@
          height="36"
          x="-662.03802"
          y="854.61255"
-         inkscape:label="purple_bold"
+         inkscape:label="purple_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -634,7 +875,7 @@
          x="-610.61395"
          y="833.72461"
          id="text464-3"
-         inkscape:label="blue_bold"
+         inkscape:label="blue_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan464-1"
@@ -648,7 +889,7 @@
          height="36"
          x="-662.03802"
          y="810.61255"
-         inkscape:label="blue_bold"
+         inkscape:label="blue_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -656,7 +897,7 @@
          x="-610.61395"
          y="789.72461"
          id="text465-4"
-         inkscape:label="cyan_bold"
+         inkscape:label="cyan_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan465-7"
@@ -670,7 +911,7 @@
          height="36"
          x="-662.03802"
          y="766.61255"
-         inkscape:label="cyan_bold"
+         inkscape:label="cyan_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -678,7 +919,7 @@
          x="-610.61395"
          y="745.72461"
          id="text466-4"
-         inkscape:label="green_bold"
+         inkscape:label="green_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan466-5"
@@ -692,7 +933,7 @@
          height="36"
          x="-662.03802"
          y="722.61255"
-         inkscape:label="green_bold"
+         inkscape:label="green_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -700,7 +941,7 @@
          x="-610.61395"
          y="701.72455"
          id="text467-3"
-         inkscape:label="yellow_bold"
+         inkscape:label="yellow_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan467-61"
@@ -714,7 +955,7 @@
          height="36"
          x="-662.03802"
          y="678.61255"
-         inkscape:label="yellow_bold"
+         inkscape:label="yellow_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -722,7 +963,7 @@
          x="-610.61395"
          y="657.72461"
          id="text468-6"
-         inkscape:label="orange_bold"
+         inkscape:label="orange_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan468-3"
@@ -736,7 +977,7 @@
          height="36"
          x="-662.03802"
          y="634.61255"
-         inkscape:label="orange_bold"
+         inkscape:label="orange_dim"
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
@@ -744,7 +985,7 @@
          x="-610.61395"
          y="613.72461"
          id="text469-0"
-         inkscape:label="red_bold"
+         inkscape:label="red_dim"
          transform="translate(932.25501,29.387445)"><tspan
            sodipodi:role="line"
            id="tspan469-6"
@@ -758,7 +999,7 @@
          height="36"
          x="-662.03802"
          y="590.61255"
-         inkscape:label="red_bold"
+         inkscape:label="red_dim"
          transform="translate(932.25501,29.387445)" />
     </g>
     <g
@@ -767,7 +1008,7 @@
        inkscape:label="colors">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient32)"
          x="-370.61395"
          y="921.72461"
          id="text462-6-5"
@@ -777,9 +1018,9 @@
            id="tspan462-9-4"
            x="-370.61395"
            y="921.72461"
-           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient32)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient32);fill-opacity:1;stroke-width:1.25036"
          id="rect463-3-7"
          width="36"
          height="36"
@@ -789,7 +1030,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient1033)"
          x="-370.61395"
          y="877.72467"
          id="text463-7-6"
@@ -799,9 +1040,9 @@
            id="tspan463-4-5"
            x="-370.61395"
            y="877.72467"
-           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient1033)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient1033);fill-opacity:1;stroke-width:1.25036"
          id="rect464-5-6"
          width="36"
          height="36"
@@ -811,7 +1052,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient2242)"
          x="-370.61395"
          y="833.72461"
          id="text464-2-9"
@@ -821,9 +1062,9 @@
            id="tspan464-5-3"
            x="-370.61395"
            y="833.72461"
-           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient2242)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient2242);fill-opacity:1;stroke-width:1.25036"
          id="rect465-4-7"
          width="36"
          height="36"
@@ -833,7 +1074,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient459)"
          x="-370.61395"
          y="789.72461"
          id="text465-7-4"
@@ -843,9 +1084,9 @@
            id="tspan465-4-5"
            x="-370.61395"
            y="789.72461"
-           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient459)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient459);fill-opacity:1;stroke-width:1.25036"
          id="rect466-4-2"
          width="36"
          height="36"
@@ -855,7 +1096,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient3252)"
          x="-370.61395"
          y="745.72461"
          id="text466-3-5"
@@ -865,9 +1106,9 @@
            id="tspan466-0-4"
            x="-370.61395"
            y="745.72461"
-           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient3252)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient3252);fill-opacity:1;stroke-width:1.25036"
          id="rect467-7-7"
          width="36"
          height="36"
@@ -877,7 +1118,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient127)"
          x="-370.61395"
          y="701.72455"
          id="text467-8-4"
@@ -887,9 +1128,9 @@
            id="tspan467-6-4"
            x="-370.61395"
            y="701.72455"
-           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient127)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient127);fill-opacity:1;stroke-width:1.25036"
          id="rect468-8-3"
          width="36"
          height="36"
@@ -899,7 +1140,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient9414)"
          x="-370.61395"
          y="657.72461"
          id="text468-8-0"
@@ -909,9 +1150,9 @@
            id="tspan468-4-7"
            x="-370.61395"
            y="657.72461"
-           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient9414)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient9414);fill-opacity:1;stroke-width:1.25036"
          id="rect469-3-8"
          width="36"
          height="36"
@@ -921,7 +1162,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6099)"
          x="-370.61395"
          y="613.72461"
          id="text469-1-6"
@@ -931,9 +1172,9 @@
            id="tspan469-4-8"
            x="-370.61395"
            y="613.72461"
-           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6099)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6099);fill-opacity:1;stroke-width:1.25036"
          id="rect470-9-8"
          width="36"
          height="36"
@@ -1171,179 +1412,179 @@
        inkscape:label="light">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient8265)"
          x="-868.51428"
          y="145.72456"
          id="text462-6"
-         inkscape:label="magenta_light"
+         inkscape:label="magenta_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan462-9"
            x="-868.51428"
            y="145.72456"
-           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient8265)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient8265);fill-opacity:1;stroke-width:1.25036"
          id="rect463-3"
          width="36"
          height="36"
          x="-919.93829"
          y="122.61256"
-         inkscape:label="magenta_light"
+         inkscape:label="magenta_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient9977)"
          x="-868.51428"
          y="101.72456"
          id="text463-7"
-         inkscape:label="purple_light"
+         inkscape:label="purple_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan463-4"
            x="-868.51428"
            y="101.72456"
-           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient9977)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient9977);fill-opacity:1;stroke-width:1.25036"
          id="rect464-5"
          width="36"
          height="36"
          x="-919.93829"
          y="78.612556"
-         inkscape:label="purple_light"
+         inkscape:label="purple_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6379)"
          x="-868.51428"
          y="57.724556"
          id="text464-2"
-         inkscape:label="blue_light"
+         inkscape:label="blue_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan464-5"
            x="-868.51428"
            y="57.724556"
-           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6379)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6379);fill-opacity:1;stroke-width:1.25036"
          id="rect465-4"
          width="36"
          height="36"
          x="-919.93829"
          y="34.612556"
-         inkscape:label="blue_light"
+         inkscape:label="blue_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6909)"
          x="-868.51428"
          y="13.724558"
          id="text465-7"
-         inkscape:label="cyan_light"
+         inkscape:label="cyan_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan465-4"
            x="-868.51428"
            y="13.724558"
-           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6909)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6909);fill-opacity:1;stroke-width:1.25036"
          id="rect466-4"
          width="36"
          height="36"
          x="-919.93829"
          y="-9.3874416"
-         inkscape:label="cyan_light"
+         inkscape:label="cyan_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5459)"
          x="-868.51428"
          y="-30.275457"
          id="text466-3"
-         inkscape:label="green_light"
+         inkscape:label="green_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan466-0"
            x="-868.51428"
            y="-30.275457"
-           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient5459)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient5459);fill-opacity:1;stroke-width:1.25036"
          id="rect467-7"
          width="36"
          height="36"
          x="-919.93829"
          y="-53.387459"
-         inkscape:label="green_light"
+         inkscape:label="green_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient1263)"
          x="-868.51428"
          y="-74.275459"
          id="text467-8"
-         inkscape:label="yellow_light"
+         inkscape:label="yellow_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan467-6"
            x="-868.51428"
            y="-74.275459"
-           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient1263)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient1263);fill-opacity:1;stroke-width:1.25036"
          id="rect468-8"
          width="36"
          height="36"
          x="-919.93829"
          y="-97.387444"
-         inkscape:label="yellow_light"
+         inkscape:label="yellow_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient8606)"
          x="-868.51428"
          y="-118.27542"
          id="text468-8"
-         inkscape:label="orange_light"
+         inkscape:label="orange_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan468-4"
            x="-868.51428"
            y="-118.27542"
-           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient8606)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient8606);fill-opacity:1;stroke-width:1.25036"
          id="rect469-3"
          width="36"
          height="36"
          x="-919.93829"
          y="-141.38742"
-         inkscape:label="orange_light"
+         inkscape:label="orange_bright"
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient3680)"
          x="-868.51428"
          y="-162.27541"
          id="text469-1"
-         inkscape:label="red_light"
+         inkscape:label="red_bright"
          transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan469-4"
            x="-868.51428"
            y="-162.27541"
-           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient3680)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient3680);fill-opacity:1;stroke-width:1.25036"
          id="rect470-9"
          width="36"
          height="36"
          x="-919.93829"
          y="-185.38744"
-         inkscape:label="red_light"
+         inkscape:label="red_bright"
          transform="translate(1430.1553,309.38745)" />
     </g>
     <g
@@ -1352,7 +1593,7 @@
        inkscape:label="colors">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient1924)"
          x="-1108.5143"
          y="145.72456"
          id="text462"
@@ -1362,9 +1603,9 @@
            id="tspan462"
            x="-1108.5143"
            y="145.72456"
-           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient1924)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient1924);fill-opacity:1;stroke-width:1.25036"
          id="rect463"
          width="36"
          height="36"
@@ -1374,7 +1615,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6701)"
          x="-1108.5143"
          y="101.72456"
          id="text463"
@@ -1384,9 +1625,9 @@
            id="tspan463"
            x="-1108.5143"
            y="101.72456"
-           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6701)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6701);fill-opacity:1;stroke-width:1.25036"
          id="rect464"
          width="36"
          height="36"
@@ -1396,7 +1637,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6053)"
          x="-1108.5143"
          y="57.724556"
          id="text464"
@@ -1406,9 +1647,9 @@
            id="tspan464"
            x="-1108.5143"
            y="57.724556"
-           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6053)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6053);fill-opacity:1;stroke-width:1.25036"
          id="rect465"
          width="36"
          height="36"
@@ -1418,7 +1659,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient51)"
          x="-1108.5143"
          y="13.724543"
          id="text465"
@@ -1428,9 +1669,9 @@
            id="tspan465"
            x="-1108.5143"
            y="13.724543"
-           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient51)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient51);fill-opacity:1;stroke-width:1.25036"
          id="rect466"
          width="36"
          height="36"
@@ -1440,7 +1681,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient76)"
          x="-1108.5143"
          y="-30.275457"
          id="text466"
@@ -1450,9 +1691,9 @@
            id="tspan466"
            x="-1108.5143"
            y="-30.275457"
-           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient76)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient76);fill-opacity:1;stroke-width:1.25036"
          id="rect467"
          width="36"
          height="36"
@@ -1462,7 +1703,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6173)"
          x="-1108.5143"
          y="-74.275459"
          id="text467"
@@ -1472,9 +1713,9 @@
            id="tspan467"
            x="-1108.5143"
            y="-74.275459"
-           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient6173)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient6173);fill-opacity:1;stroke-width:1.25036"
          id="rect468"
          width="36"
          height="36"
@@ -1484,7 +1725,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient7463)"
          x="-1108.5143"
          y="-118.27543"
          id="text468"
@@ -1494,9 +1735,9 @@
            id="tspan468"
            x="-1108.5143"
            y="-118.27543"
-           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient7463)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient7463);fill-opacity:1;stroke-width:1.25036"
          id="rect469"
          width="36"
          height="36"
@@ -1506,7 +1747,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5175)"
          x="-1108.5143"
          y="-162.27542"
          id="text469"
@@ -1516,9 +1757,9 @@
            id="tspan469"
            x="-1108.5143"
            y="-162.27542"
-           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient5175)">ABCabc123!@#</tspan></text>
       <rect
-         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         style="fill:url(#linearGradient5175);fill-opacity:1;stroke-width:1.25036"
          id="rect470"
          width="36"
          height="36"
