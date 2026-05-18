@@ -24,76 +24,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.69296465"
-     inkscape:cx="220.06895"
-     inkscape:cy="570.73618"
+     inkscape:zoom="0.98000001"
+     inkscape:cx="445.91836"
+     inkscape:cy="514.79592"
      inkscape:window-width="2548"
      inkscape:window-height="1400"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer5" />
   <defs
      id="defs1">
-    <linearGradient
-       id="swatch152"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop152" />
-    </linearGradient>
-    <linearGradient
-       id="swatch84"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop84" />
-    </linearGradient>
-    <linearGradient
-       id="swatch83"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#329d99;stop-opacity:1;"
-         offset="0"
-         id="stop83" />
-    </linearGradient>
-    <linearGradient
-       id="swatch112">
-      <stop
-         style="stop-color:#7e978a;stop-opacity:1;"
-         offset="0"
-         id="stop112" />
-    </linearGradient>
-    <linearGradient
-       id="swatch1156">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1156" />
-    </linearGradient>
-    <linearGradient
-       id="swatch1155">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1155" />
-    </linearGradient>
-    <linearGradient
-       id="swatch1154">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1154" />
-    </linearGradient>
-    <linearGradient
-       id="swatch1153">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1153" />
-    </linearGradient>
     <linearGradient
        id="swatch121"
        inkscape:swatch="solid"
@@ -140,13 +81,6 @@
          id="stop117" />
     </linearGradient>
     <linearGradient
-       id="swatch116">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop116" />
-    </linearGradient>
-    <linearGradient
        id="swatch115"
        inkscape:swatch="solid"
        inkscape:label="bg_1">
@@ -154,20 +88,6 @@
          style="stop-color:#2d4730;stop-opacity:1;"
          offset="0"
          id="stop115" />
-    </linearGradient>
-    <linearGradient
-       id="swatch114">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop114" />
-    </linearGradient>
-    <linearGradient
-       id="swatch58">
-      <stop
-         style="stop-color:#071706;stop-opacity:1;"
-         offset="0"
-         id="stop58" />
     </linearGradient>
     <linearGradient
        id="swatch57"
@@ -199,20 +119,6 @@
          id="stop36" />
     </linearGradient>
     <linearGradient
-       id="linearGradient79">
-      <stop
-         style="stop-color:#dbe2dc;stop-opacity:1;"
-         offset="0"
-         id="stop78" />
-    </linearGradient>
-    <linearGradient
-       id="swatch32">
-      <stop
-         style="stop-color:#e2e2db;stop-opacity:1;"
-         offset="0"
-         id="stop32" />
-    </linearGradient>
-    <linearGradient
        id="swatch30"
        inkscape:swatch="solid"
        inkscape:label="bg_7">
@@ -242,20 +148,6 @@
          id="stop23" />
     </linearGradient>
     <linearGradient
-       id="swatch22">
-      <stop
-         style="stop-color:#4a9d69;stop-opacity:1;"
-         offset="0"
-         id="stop22" />
-    </linearGradient>
-    <linearGradient
-       id="swatch21">
-      <stop
-         style="stop-color:#ff00ff;stop-opacity:1;"
-         offset="0"
-         id="stop21" />
-    </linearGradient>
-    <linearGradient
        id="swatch19"
        inkscape:swatch="solid"
        inkscape:label="blue"
@@ -276,28 +168,6 @@
          id="stop18" />
     </linearGradient>
     <linearGradient
-       id="swatch16"
-       inkscape:label="yellow">
-      <stop
-         style="stop-color:#ffff00;stop-opacity:1;"
-         offset="0"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
-       id="swatch15">
-      <stop
-         style="stop-color:#4a9d69;stop-opacity:1;"
-         offset="0"
-         id="stop15" />
-    </linearGradient>
-    <linearGradient
-       id="swatch11">
-      <stop
-         style="stop-color:#4a9d69;stop-opacity:1;"
-         offset="0"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
        id="swatch10"
        inkscape:swatch="solid"
        inkscape:label="green"
@@ -308,13 +178,6 @@
          id="stop10" />
     </linearGradient>
     <linearGradient
-       id="swatch9">
-      <stop
-         style="stop-color:#4a9d69;stop-opacity:1;"
-         offset="0"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
        id="swatch8"
        inkscape:label="red"
        inkscape:swatch="solid"
@@ -323,38 +186,6 @@
          style="stop-color:#cf2b2a;stop-opacity:1;"
          offset="0"
          id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="swatch7">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop7" />
-    </linearGradient>
-    <linearGradient
-       id="swatch5">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="swatch1"
-       inkscape:label="black"
-       gradientTransform="matrix(0.69098474,0,0,1.1449326,25.766539,9.3359148)"
-       x1="231.5961"
-       y1="343.49799"
-       x2="231.5961"
-       y2="20.835123"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         style="stop-color:#071706;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#ecfff6;stop-opacity:1;"
-         offset="1"
-         id="stop461" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -406,16 +237,6 @@
        x2="231.68694"
        y2="106.36201"
        gradientTransform="matrix(1.125,0,0,1.125,-981.78261,-7.0446907)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch57"
-       id="linearGradient1122"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(106.17508,-32.810271)"
-       x1="67.32856"
-       y1="106.36201"
-       x2="231.68694"
-       y2="106.36201" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch119"
@@ -566,26 +387,6 @@
        y1="163.44893"
        x2="363.21985"
        y2="163.44893" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch36"
-       id="linearGradient196"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1259.1837,-142.36957)"
-       x1="348.40549"
-       y1="656.98212"
-       x2="647.9256"
-       y2="656.98212" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch36"
-       id="linearGradient216"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1265.6775,-236.92645)"
-       x1="355.33124"
-       y1="255.53906"
-       x2="598.97931"
-       y2="255.53906" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch30"
@@ -749,9 +550,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch30"
-       id="linearGradient233"
+       id="linearGradient19"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1265.6775,-236.92645)"
+       gradientTransform="translate(-326.89933,-207.539)"
        x1="355.33124"
        y1="255.53906"
        x2="598.97931"
@@ -759,1044 +560,1184 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch57"
-       id="linearGradient234"
+       id="linearGradient22"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1265.6775,259.07349)"
+       gradientTransform="translate(-326.89933,288.46093)"
        x1="355.33124"
        y1="255.53906"
        x2="598.97931"
        y2="255.53906" />
   </defs>
-  <rect
-     style="fill:url(#linearGradient57);stroke-width:2.22913"
-     id="rect56"
-     width="720"
-     height="400"
-     x="0"
-     y="96"
-     inkscape:label="bg_0" />
-  <rect
-     style="fill:url(#linearGradient4);stroke-width:2.58632"
-     id="rect57-1"
-     width="720"
-     height="400"
-     x="0"
-     y="592"
-     inkscape:label="bg_7" />
   <g
      inkscape:groupmode="layer"
-     id="g471"
-     inkscape:label="colors"
-     transform="translate(1430.1553,309.38745)">
+     id="layer3"
+     inkscape:label="light">
     <rect
-       style="display:inline;fill:url(#linearGradient82);stroke-width:1.09204"
-       id="rect461-57"
+       style="fill:url(#linearGradient4);stroke-width:2.58632"
+       id="rect57-1"
        width="720"
-       height="96"
-       x="-1430.1553"
-       y="-309.38745"
-       inkscape:label="bg_0"
-       inkscape:export-filename="rect461.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
-       x="-1108.5143"
-       y="145.72456"
-       id="text462"
-       inkscape:label="magenta"><tspan
-         sodipodi:role="line"
-         id="tspan462"
-         x="-1108.5143"
-         y="145.72456"
-         style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
-       id="rect463"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="122.61256"
-       inkscape:label="magenta" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
-       x="-1108.5143"
-       y="101.72456"
-       id="text463"
-       inkscape:label="purple"><tspan
-         sodipodi:role="line"
-         id="tspan463"
-         x="-1108.5143"
-         y="101.72456"
-         style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
-       id="rect464"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="78.612556"
-       inkscape:label="purple" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
-       x="-1108.5143"
-       y="57.724556"
-       id="text464"
-       inkscape:label="blue"><tspan
-         sodipodi:role="line"
-         id="tspan464"
-         x="-1108.5143"
-         y="57.724556"
-         style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
-       id="rect465"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="34.612556"
-       inkscape:label="blue" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
-       x="-1108.5143"
-       y="13.724543"
-       id="text465"
-       inkscape:label="cyan"><tspan
-         sodipodi:role="line"
-         id="tspan465"
-         x="-1108.5143"
-         y="13.724543"
-         style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
-       id="rect466"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="-9.3874569"
-       inkscape:label="cyan" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
-       x="-1108.5143"
-       y="-30.275457"
-       id="text466"
-       inkscape:label="green"><tspan
-         sodipodi:role="line"
-         id="tspan466"
-         x="-1108.5143"
-         y="-30.275457"
-         style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
-       id="rect467"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="-53.387459"
-       inkscape:label="green" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
-       x="-1108.5143"
-       y="-74.275459"
-       id="text467"
-       inkscape:label="yellow"><tspan
-         sodipodi:role="line"
-         id="tspan467"
-         x="-1108.5143"
-         y="-74.275459"
-         style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
-       id="rect468"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="-97.387459"
-       inkscape:label="yellow" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
-       x="-1108.5143"
-       y="-118.27543"
-       id="text468"
-       inkscape:label="orange"><tspan
-         sodipodi:role="line"
-         id="tspan468"
-         x="-1108.5143"
-         y="-118.27543"
-         style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
-       id="rect469"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="-141.38744"
-       inkscape:label="orange" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
-       x="-1108.5143"
-       y="-162.27542"
-       id="text469"
-       inkscape:label="red"><tspan
-         sodipodi:role="line"
-         id="tspan469"
-         x="-1108.5143"
-         y="-162.27542"
-         style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
-       id="rect470"
-       width="36"
-       height="36"
-       x="-1159.9384"
-       y="-185.38745"
-       inkscape:label="red" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
-       x="-868.51428"
-       y="145.72456"
-       id="text462-6"
-       inkscape:label="magenta"><tspan
-         sodipodi:role="line"
-         id="tspan462-9"
-         x="-868.51428"
-         y="145.72456"
-         style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
-       id="rect463-3"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="122.61256"
-       inkscape:label="magenta" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
-       x="-868.51428"
-       y="101.72456"
-       id="text463-7"
-       inkscape:label="purple"><tspan
-         sodipodi:role="line"
-         id="tspan463-4"
-         x="-868.51428"
-         y="101.72456"
-         style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
-       id="rect464-5"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="78.612556"
-       inkscape:label="purple" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
-       x="-868.51428"
-       y="57.724556"
-       id="text464-2"
-       inkscape:label="blue"><tspan
-         sodipodi:role="line"
-         id="tspan464-5"
-         x="-868.51428"
-         y="57.724556"
-         style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
-       id="rect465-4"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="34.612556"
-       inkscape:label="blue" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
-       x="-868.51428"
-       y="13.724558"
-       id="text465-7"
-       inkscape:label="cyan"><tspan
-         sodipodi:role="line"
-         id="tspan465-4"
-         x="-868.51428"
-         y="13.724558"
-         style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
-       id="rect466-4"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="-9.3874416"
-       inkscape:label="cyan" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
-       x="-868.51428"
-       y="-30.275457"
-       id="text466-3"
-       inkscape:label="green"><tspan
-         sodipodi:role="line"
-         id="tspan466-0"
-         x="-868.51428"
-         y="-30.275457"
-         style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
-       id="rect467-7"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="-53.387459"
-       inkscape:label="green" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
-       x="-868.51428"
-       y="-74.275459"
-       id="text467-8"
-       inkscape:label="yellow"><tspan
-         sodipodi:role="line"
-         id="tspan467-6"
-         x="-868.51428"
-         y="-74.275459"
-         style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
-       id="rect468-8"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="-97.387444"
-       inkscape:label="yellow" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
-       x="-868.51428"
-       y="-118.27542"
-       id="text468-8"
-       inkscape:label="orange"><tspan
-         sodipodi:role="line"
-         id="tspan468-4"
-         x="-868.51428"
-         y="-118.27542"
-         style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
-       id="rect469-3"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="-141.38742"
-       inkscape:label="orange" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
-       x="-868.51428"
-       y="-162.27541"
-       id="text469-1"
-       inkscape:label="red"><tspan
-         sodipodi:role="line"
-         id="tspan469-4"
-         x="-868.51428"
-         y="-162.27541"
-         style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
-       id="rect470-9"
-       width="36"
-       height="36"
-       x="-919.93829"
-       y="-185.38744"
-       inkscape:label="red" />
+       height="400"
+       x="0"
+       y="592"
+       inkscape:label="bg" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="bold">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         x="-610.61395"
+         y="921.72461"
+         id="text462-9"
+         inkscape:label="magenta_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan462-7"
+           x="-610.61395"
+           y="921.72461"
+           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         id="rect463-36"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="898.61255"
+         inkscape:label="magenta_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         x="-610.61395"
+         y="877.72467"
+         id="text463-1"
+         inkscape:label="purple_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan463-2"
+           x="-610.61395"
+           y="877.72467"
+           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         id="rect464-9"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="854.61255"
+         inkscape:label="purple_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         x="-610.61395"
+         y="833.72461"
+         id="text464-3"
+         inkscape:label="blue_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan464-1"
+           x="-610.61395"
+           y="833.72461"
+           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         id="rect465-9"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="810.61255"
+         inkscape:label="blue_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         x="-610.61395"
+         y="789.72461"
+         id="text465-4"
+         inkscape:label="cyan_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan465-7"
+           x="-610.61395"
+           y="789.72461"
+           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         id="rect466-8"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="766.61255"
+         inkscape:label="cyan_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         x="-610.61395"
+         y="745.72461"
+         id="text466-4"
+         inkscape:label="green_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan466-5"
+           x="-610.61395"
+           y="745.72461"
+           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         id="rect467-0"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="722.61255"
+         inkscape:label="green_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         x="-610.61395"
+         y="701.72455"
+         id="text467-3"
+         inkscape:label="yellow_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan467-61"
+           x="-610.61395"
+           y="701.72455"
+           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         id="rect468-0"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="678.61255"
+         inkscape:label="yellow_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         x="-610.61395"
+         y="657.72461"
+         id="text468-6"
+         inkscape:label="orange_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan468-3"
+           x="-610.61395"
+           y="657.72461"
+           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         id="rect469-2"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="634.61255"
+         inkscape:label="orange_bold"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         x="-610.61395"
+         y="613.72461"
+         id="text469-0"
+         inkscape:label="red_bold"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan469-6"
+           x="-610.61395"
+           y="613.72461"
+           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         id="rect470-1"
+         width="36"
+         height="36"
+         x="-662.03802"
+         y="590.61255"
+         inkscape:label="red_bold"
+         transform="translate(932.25501,29.387445)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="colors">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         x="-370.61395"
+         y="921.72461"
+         id="text462-6-5"
+         inkscape:label="magenta"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan462-9-4"
+           x="-370.61395"
+           y="921.72461"
+           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         id="rect463-3-7"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="898.61255"
+         inkscape:label="magenta"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         x="-370.61395"
+         y="877.72467"
+         id="text463-7-6"
+         inkscape:label="purple"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan463-4-5"
+           x="-370.61395"
+           y="877.72467"
+           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         id="rect464-5-6"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="854.61255"
+         inkscape:label="purple"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         x="-370.61395"
+         y="833.72461"
+         id="text464-2-9"
+         inkscape:label="blue"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan464-5-3"
+           x="-370.61395"
+           y="833.72461"
+           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         id="rect465-4-7"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="810.61255"
+         inkscape:label="blue"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         x="-370.61395"
+         y="789.72461"
+         id="text465-7-4"
+         inkscape:label="cyan"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan465-4-5"
+           x="-370.61395"
+           y="789.72461"
+           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         id="rect466-4-2"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="766.61255"
+         inkscape:label="cyan"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         x="-370.61395"
+         y="745.72461"
+         id="text466-3-5"
+         inkscape:label="green"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan466-0-4"
+           x="-370.61395"
+           y="745.72461"
+           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         id="rect467-7-7"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="722.61255"
+         inkscape:label="green"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         x="-370.61395"
+         y="701.72455"
+         id="text467-8-4"
+         inkscape:label="yellow"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan467-6-4"
+           x="-370.61395"
+           y="701.72455"
+           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         id="rect468-8-3"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="678.61255"
+         inkscape:label="yellow"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         x="-370.61395"
+         y="657.72461"
+         id="text468-8-0"
+         inkscape:label="orange"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan468-4-7"
+           x="-370.61395"
+           y="657.72461"
+           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         id="rect469-3-8"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="634.61255"
+         inkscape:label="orange"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         x="-370.61395"
+         y="613.72461"
+         id="text469-1-6"
+         inkscape:label="red"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan469-4-8"
+           x="-370.61395"
+           y="613.72461"
+           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         id="rect470-9-8"
+         width="36"
+         height="36"
+         x="-422.03802"
+         y="590.61255"
+         inkscape:label="red"
+         transform="translate(932.25501,29.387445)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="base">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient225)"
+         x="-846.61395"
+         y="921.72449"
+         id="text66-4"
+         inkscape:label="base_7"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan66-9"
+           x="-846.61395"
+           y="921.72449"
+           style="font-size:18px;fill:url(#linearGradient225)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient6);fill-opacity:1;stroke-width:1.25036"
+         id="rect66-2"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="898.61255"
+         inkscape:label="base_7"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient226)"
+         x="-846.61395"
+         y="877.72443"
+         id="text67-0"
+         inkscape:label="base_6"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan67-6"
+           x="-846.61395"
+           y="877.72443"
+           style="font-size:18px;fill:url(#linearGradient226)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:1.25036"
+         id="rect67-8"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="854.61255"
+         inkscape:label="base_6"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient227)"
+         x="-846.61395"
+         y="833.72449"
+         id="text68-9"
+         inkscape:label="base_5"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan68-2"
+           x="-846.61395"
+           y="833.72449"
+           style="font-size:18px;fill:url(#linearGradient227)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient10);fill-opacity:1;stroke-width:1.25036"
+         id="rect68-6"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="810.61255"
+         inkscape:label="base_5"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient228)"
+         x="-846.61395"
+         y="789.72449"
+         id="text69-6"
+         inkscape:label="base_4"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan69-4"
+           x="-846.61395"
+           y="789.72449"
+           style="font-size:18px;fill:url(#linearGradient228)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient12);fill-opacity:1;stroke-width:1.25036"
+         id="rect69-9"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="766.61255"
+         inkscape:label="base_4"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient229)"
+         x="-846.61395"
+         y="745.72461"
+         id="text70-5"
+         inkscape:label="base_3"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan70-0"
+           x="-846.61395"
+           y="745.72461"
+           style="font-size:18px;fill:url(#linearGradient229)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient14);fill-opacity:1;stroke-width:1.25036"
+         id="rect70-4"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="722.61255"
+         inkscape:label="base_3"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient230)"
+         x="-846.61395"
+         y="701.72455"
+         id="text1-0-6-8"
+         inkscape:label="base_2"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan1-9-1-7"
+           x="-846.61395"
+           y="701.72455"
+           style="font-size:18px;fill:url(#linearGradient230)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient16);fill-opacity:1;stroke-width:1.25036"
+         id="rect59-1"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="678.61255"
+         inkscape:label="base_2"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient231)"
+         x="-846.61395"
+         y="657.72455"
+         id="text71-7"
+         inkscape:label="base_1"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan71-2"
+           x="-846.61395"
+           y="657.72455"
+           style="font-size:18px;fill:url(#linearGradient231)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient18);fill-opacity:1;stroke-width:1.25036"
+         id="rect71-7"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="634.61255"
+         inkscape:label="base_1"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient232)"
+         x="-846.61395"
+         y="613.72455"
+         id="text72-2"
+         inkscape:label="base_0"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan72-2"
+           x="-846.61395"
+           y="613.72455"
+           style="font-size:18px;fill:url(#linearGradient232)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient20);fill-opacity:1;stroke-width:1.25036"
+         id="rect72-6"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="590.61255"
+         inkscape:label="base_0"
+         transform="translate(932.25501,29.387445)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="title">
+      <rect
+         style="display:inline;fill:url(#linearGradient136);stroke-width:1.09204"
+         id="rect461-57-3"
+         width="720"
+         height="96"
+         x="-932.25494"
+         y="466.61255"
+         inkscape:label="title_bg"
+         inkscape:export-filename="rect461.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient22);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="26.559967"
+         y="567.40002"
+         id="text81-3"
+         inkscape:label="title"><tspan
+           sodipodi:role="line"
+           id="tspan81-8"
+           x="26.559967"
+           y="567.40002"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient22);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="base"
-     transform="translate(932.25501,29.387445)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient217)"
-       x="-846.61395"
-       y="425.72452"
-       id="text66"
-       inkscape:label="base_7"><tspan
-         sodipodi:role="line"
-         id="tspan66"
+     id="layer2"
+     inkscape:label="dark">
+    <rect
+       style="fill:url(#linearGradient57);stroke-width:2.22913"
+       id="rect56"
+       width="720"
+       height="400"
+       x="0"
+       y="96"
+       inkscape:label="bg" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="light">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         x="-868.51428"
+         y="145.72456"
+         id="text462-6"
+         inkscape:label="magenta_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan462-9"
+           x="-868.51428"
+           y="145.72456"
+           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         id="rect463-3"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="122.61256"
+         inkscape:label="magenta_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         x="-868.51428"
+         y="101.72456"
+         id="text463-7"
+         inkscape:label="purple_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan463-4"
+           x="-868.51428"
+           y="101.72456"
+           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         id="rect464-5"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="78.612556"
+         inkscape:label="purple_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         x="-868.51428"
+         y="57.724556"
+         id="text464-2"
+         inkscape:label="blue_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan464-5"
+           x="-868.51428"
+           y="57.724556"
+           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         id="rect465-4"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="34.612556"
+         inkscape:label="blue_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         x="-868.51428"
+         y="13.724558"
+         id="text465-7"
+         inkscape:label="cyan_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan465-4"
+           x="-868.51428"
+           y="13.724558"
+           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         id="rect466-4"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="-9.3874416"
+         inkscape:label="cyan_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         x="-868.51428"
+         y="-30.275457"
+         id="text466-3"
+         inkscape:label="green_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan466-0"
+           x="-868.51428"
+           y="-30.275457"
+           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         id="rect467-7"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="-53.387459"
+         inkscape:label="green_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         x="-868.51428"
+         y="-74.275459"
+         id="text467-8"
+         inkscape:label="yellow_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan467-6"
+           x="-868.51428"
+           y="-74.275459"
+           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         id="rect468-8"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="-97.387444"
+         inkscape:label="yellow_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         x="-868.51428"
+         y="-118.27542"
+         id="text468-8"
+         inkscape:label="orange_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan468-4"
+           x="-868.51428"
+           y="-118.27542"
+           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         id="rect469-3"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="-141.38742"
+         inkscape:label="orange_light"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         x="-868.51428"
+         y="-162.27541"
+         id="text469-1"
+         inkscape:label="red_light"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan469-4"
+           x="-868.51428"
+           y="-162.27541"
+           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         id="rect470-9"
+         width="36"
+         height="36"
+         x="-919.93829"
+         y="-185.38744"
+         inkscape:label="red_light"
+         transform="translate(1430.1553,309.38745)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="colors">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
+         x="-1108.5143"
+         y="145.72456"
+         id="text462"
+         inkscape:label="magenta"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan462"
+           x="-1108.5143"
+           y="145.72456"
+           style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
+         id="rect463"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="122.61256"
+         inkscape:label="magenta"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
+         x="-1108.5143"
+         y="101.72456"
+         id="text463"
+         inkscape:label="purple"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan463"
+           x="-1108.5143"
+           y="101.72456"
+           style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
+         id="rect464"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="78.612556"
+         inkscape:label="purple"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
+         x="-1108.5143"
+         y="57.724556"
+         id="text464"
+         inkscape:label="blue"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan464"
+           x="-1108.5143"
+           y="57.724556"
+           style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
+         id="rect465"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="34.612556"
+         inkscape:label="blue"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
+         x="-1108.5143"
+         y="13.724543"
+         id="text465"
+         inkscape:label="cyan"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan465"
+           x="-1108.5143"
+           y="13.724543"
+           style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
+         id="rect466"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="-9.3874569"
+         inkscape:label="cyan"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
+         x="-1108.5143"
+         y="-30.275457"
+         id="text466"
+         inkscape:label="green"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan466"
+           x="-1108.5143"
+           y="-30.275457"
+           style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
+         id="rect467"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="-53.387459"
+         inkscape:label="green"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         x="-1108.5143"
+         y="-74.275459"
+         id="text467"
+         inkscape:label="yellow"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan467"
+           x="-1108.5143"
+           y="-74.275459"
+           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
+         id="rect468"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="-97.387459"
+         inkscape:label="yellow"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         x="-1108.5143"
+         y="-118.27543"
+         id="text468"
+         inkscape:label="orange"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan468"
+           x="-1108.5143"
+           y="-118.27543"
+           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
+         id="rect469"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="-141.38744"
+         inkscape:label="orange"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         x="-1108.5143"
+         y="-162.27542"
+         id="text469"
+         inkscape:label="red"
+         transform="translate(1430.1553,309.38745)"><tspan
+           sodipodi:role="line"
+           id="tspan469"
+           x="-1108.5143"
+           y="-162.27542"
+           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
+         id="rect470"
+         width="36"
+         height="36"
+         x="-1159.9384"
+         y="-185.38745"
+         inkscape:label="red"
+         transform="translate(1430.1553,309.38745)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="base">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient217)"
          x="-846.61395"
          y="425.72452"
-         style="font-size:18px;fill:url(#linearGradient217)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient129);fill-opacity:1;stroke-width:1.25036"
-       id="rect66"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="402.61252"
-       inkscape:label="base_7" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient218)"
-       x="-846.61395"
-       y="381.72452"
-       id="text67"
-       inkscape:label="base_6"><tspan
-         sodipodi:role="line"
-         id="tspan67"
+         id="text66"
+         inkscape:label="base_7"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan66"
+           x="-846.61395"
+           y="425.72452"
+           style="font-size:18px;fill:url(#linearGradient217)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient129);fill-opacity:1;stroke-width:1.25036"
+         id="rect66"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="402.61252"
+         inkscape:label="base_7"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient218)"
          x="-846.61395"
          y="381.72452"
-         style="font-size:18px;fill:url(#linearGradient218)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient1165);fill-opacity:1;stroke-width:1.25036"
-       id="rect67"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="358.61252"
-       inkscape:label="base_6" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient219)"
-       x="-846.61395"
-       y="337.72452"
-       id="text68"
-       inkscape:label="base_5"><tspan
-         sodipodi:role="line"
-         id="tspan68"
+         id="text67"
+         inkscape:label="base_6"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan67"
+           x="-846.61395"
+           y="381.72452"
+           style="font-size:18px;fill:url(#linearGradient218)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient1165);fill-opacity:1;stroke-width:1.25036"
+         id="rect67"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="358.61252"
+         inkscape:label="base_6"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient219)"
          x="-846.61395"
          y="337.72452"
-         style="font-size:18px;fill:url(#linearGradient219)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient1172);fill-opacity:1;stroke-width:1.25036"
-       id="rect68"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="314.61252"
-       inkscape:label="base_5" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient220)"
-       x="-846.61395"
-       y="293.72452"
-       id="text69"
-       inkscape:label="base_4"><tspan
-         sodipodi:role="line"
-         id="tspan69"
+         id="text68"
+         inkscape:label="base_5"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan68"
+           x="-846.61395"
+           y="337.72452"
+           style="font-size:18px;fill:url(#linearGradient219)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient1172);fill-opacity:1;stroke-width:1.25036"
+         id="rect68"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="314.61252"
+         inkscape:label="base_5"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient220)"
          x="-846.61395"
          y="293.72452"
-         style="font-size:18px;fill:url(#linearGradient220)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient1161);fill-opacity:1;stroke-width:1.25036"
-       id="rect69"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="270.61255"
-       inkscape:label="base_4" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient221)"
-       x="-846.61395"
-       y="249.72455"
-       id="text70"
-       inkscape:label="base_3"><tspan
-         sodipodi:role="line"
-         id="tspan70"
+         id="text69"
+         inkscape:label="base_4"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           x="-846.61395"
+           y="293.72452"
+           style="font-size:18px;fill:url(#linearGradient220)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient1161);fill-opacity:1;stroke-width:1.25036"
+         id="rect69"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="270.61255"
+         inkscape:label="base_4"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient221)"
          x="-846.61395"
          y="249.72455"
-         style="font-size:18px;fill:url(#linearGradient221)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient1179);fill-opacity:1;stroke-width:1.25036"
-       id="rect70"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="226.61255"
-       inkscape:label="base_3" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient222)"
-       x="-846.61395"
-       y="205.72455"
-       id="text1-0-6"
-       inkscape:label="base_2"><tspan
-         sodipodi:role="line"
-         id="tspan1-9-1"
+         id="text70"
+         inkscape:label="base_3"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan70"
+           x="-846.61395"
+           y="249.72455"
+           style="font-size:18px;fill:url(#linearGradient221)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient1179);fill-opacity:1;stroke-width:1.25036"
+         id="rect70"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="226.61255"
+         inkscape:label="base_3"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient222)"
          x="-846.61395"
          y="205.72455"
-         style="font-size:18px;fill:url(#linearGradient222)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient131);fill-opacity:1;stroke-width:1.25036"
-       id="rect59"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="182.61256"
-       inkscape:label="base_2" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient223)"
-       x="-846.61395"
-       y="161.72456"
-       id="text71"
-       inkscape:label="base_1"><tspan
-         sodipodi:role="line"
-         id="tspan71"
+         id="text1-0-6"
+         inkscape:label="base_2"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan1-9-1"
+           x="-846.61395"
+           y="205.72455"
+           style="font-size:18px;fill:url(#linearGradient222)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient131);fill-opacity:1;stroke-width:1.25036"
+         id="rect59"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="182.61256"
+         inkscape:label="base_2"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient223)"
          x="-846.61395"
          y="161.72456"
-         style="font-size:18px;fill:url(#linearGradient223)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient139);fill-opacity:1;stroke-width:1.25036"
-       id="rect71"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="138.61256"
-       inkscape:label="base_1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient224)"
-       x="-846.61395"
-       y="117.72456"
-       id="text72"
-       inkscape:label="base_0"><tspan
-         sodipodi:role="line"
-         id="tspan72"
+         id="text71"
+         inkscape:label="base_1"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan71"
+           x="-846.61395"
+           y="161.72456"
+           style="font-size:18px;fill:url(#linearGradient223)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient139);fill-opacity:1;stroke-width:1.25036"
+         id="rect71"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="138.61256"
+         inkscape:label="base_1"
+         transform="translate(932.25501,29.387445)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient224)"
          x="-846.61395"
          y="117.72456"
-         style="font-size:18px;fill:url(#linearGradient224)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient141);fill-opacity:1;stroke-width:1.25036"
-       id="rect72"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="94.612556"
-       inkscape:label="base_0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
-       x="-610.61395"
-       y="921.72461"
-       id="text462-9"
-       inkscape:label="magenta"><tspan
-         sodipodi:role="line"
-         id="tspan462-7"
-         x="-610.61395"
-         y="921.72461"
-         style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
-       id="rect463-36"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="898.61255"
-       inkscape:label="magenta" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
-       x="-610.61395"
-       y="877.72467"
-       id="text463-1"
-       inkscape:label="purple"><tspan
-         sodipodi:role="line"
-         id="tspan463-2"
-         x="-610.61395"
-         y="877.72467"
-         style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
-       id="rect464-9"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="854.61255"
-       inkscape:label="purple" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
-       x="-610.61395"
-       y="833.72461"
-       id="text464-3"
-       inkscape:label="blue"><tspan
-         sodipodi:role="line"
-         id="tspan464-1"
-         x="-610.61395"
-         y="833.72461"
-         style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
-       id="rect465-9"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="810.61255"
-       inkscape:label="blue" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
-       x="-610.61395"
-       y="789.72461"
-       id="text465-4"
-       inkscape:label="cyan"><tspan
-         sodipodi:role="line"
-         id="tspan465-7"
-         x="-610.61395"
-         y="789.72461"
-         style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
-       id="rect466-8"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="766.61255"
-       inkscape:label="cyan" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
-       x="-610.61395"
-       y="745.72461"
-       id="text466-4"
-       inkscape:label="green"><tspan
-         sodipodi:role="line"
-         id="tspan466-5"
-         x="-610.61395"
-         y="745.72461"
-         style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
-       id="rect467-0"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="722.61255"
-       inkscape:label="green" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
-       x="-610.61395"
-       y="701.72455"
-       id="text467-3"
-       inkscape:label="yellow"><tspan
-         sodipodi:role="line"
-         id="tspan467-61"
-         x="-610.61395"
-         y="701.72455"
-         style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
-       id="rect468-0"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="678.61255"
-       inkscape:label="yellow" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
-       x="-610.61395"
-       y="657.72461"
-       id="text468-6"
-       inkscape:label="orange"><tspan
-         sodipodi:role="line"
-         id="tspan468-3"
-         x="-610.61395"
-         y="657.72461"
-         style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
-       id="rect469-2"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="634.61255"
-       inkscape:label="orange" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
-       x="-610.61395"
-       y="613.72461"
-       id="text469-0"
-       inkscape:label="red"><tspan
-         sodipodi:role="line"
-         id="tspan469-6"
-         x="-610.61395"
-         y="613.72461"
-         style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
-       id="rect470-1"
-       width="36"
-       height="36"
-       x="-662.03802"
-       y="590.61255"
-       inkscape:label="red" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch23)"
-       x="-370.61395"
-       y="921.72461"
-       id="text462-6-5"
-       inkscape:label="magenta"><tspan
-         sodipodi:role="line"
-         id="tspan462-9-4"
-         x="-370.61395"
-         y="921.72461"
-         style="font-size:18px;fill:url(#swatch23)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch23);fill-opacity:1;stroke-width:1.25036"
-       id="rect463-3-7"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="898.61255"
-       inkscape:label="magenta" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch103)"
-       x="-370.61395"
-       y="877.72467"
-       id="text463-7-6"
-       inkscape:label="purple"><tspan
-         sodipodi:role="line"
-         id="tspan463-4-5"
-         x="-370.61395"
-         y="877.72467"
-         style="font-size:18px;fill:url(#swatch103)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch103);fill-opacity:1;stroke-width:1.25036"
-       id="rect464-5-6"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="854.61255"
-       inkscape:label="purple" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch19)"
-       x="-370.61395"
-       y="833.72461"
-       id="text464-2-9"
-       inkscape:label="blue"><tspan
-         sodipodi:role="line"
-         id="tspan464-5-3"
-         x="-370.61395"
-         y="833.72461"
-         style="font-size:18px;fill:url(#swatch19)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch19);fill-opacity:1;stroke-width:1.25036"
-       id="rect465-4-7"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="810.61255"
-       inkscape:label="blue" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch25)"
-       x="-370.61395"
-       y="789.72461"
-       id="text465-7-4"
-       inkscape:label="cyan"><tspan
-         sodipodi:role="line"
-         id="tspan465-4-5"
-         x="-370.61395"
-         y="789.72461"
-         style="font-size:18px;fill:url(#swatch25)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch25);fill-opacity:1;stroke-width:1.25036"
-       id="rect466-4-2"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="766.61255"
-       inkscape:label="cyan" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch10)"
-       x="-370.61395"
-       y="745.72461"
-       id="text466-3-5"
-       inkscape:label="green"><tspan
-         sodipodi:role="line"
-         id="tspan466-0-4"
-         x="-370.61395"
-         y="745.72461"
-         style="font-size:18px;fill:url(#swatch10)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch10);fill-opacity:1;stroke-width:1.25036"
-       id="rect467-7-7"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="722.61255"
-       inkscape:label="green" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
-       x="-370.61395"
-       y="701.72455"
-       id="text467-8-4"
-       inkscape:label="yellow"><tspan
-         sodipodi:role="line"
-         id="tspan467-6-4"
-         x="-370.61395"
-         y="701.72455"
-         style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch18);fill-opacity:1;stroke-width:1.25036"
-       id="rect468-8-3"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="678.61255"
-       inkscape:label="yellow" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
-       x="-370.61395"
-       y="657.72461"
-       id="text468-8-0"
-       inkscape:label="orange"><tspan
-         sodipodi:role="line"
-         id="tspan468-4-7"
-         x="-370.61395"
-         y="657.72461"
-         style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch36);fill-opacity:1;stroke-width:1.25036"
-       id="rect469-3-8"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="634.61255"
-       inkscape:label="orange" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
-       x="-370.61395"
-       y="613.72461"
-       id="text469-1-6"
-       inkscape:label="red"><tspan
-         sodipodi:role="line"
-         id="tspan469-4-8"
-         x="-370.61395"
-         y="613.72461"
-         style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#swatch8);fill-opacity:1;stroke-width:1.25036"
-       id="rect470-9-8"
-       width="36"
-       height="36"
-       x="-422.03802"
-       y="590.61255"
-       inkscape:label="red" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient225)"
-       x="-846.61395"
-       y="921.72449"
-       id="text66-4"
-       inkscape:label="base_7"><tspan
-         sodipodi:role="line"
-         id="tspan66-9"
-         x="-846.61395"
-         y="921.72449"
-         style="font-size:18px;fill:url(#linearGradient225)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient6);fill-opacity:1;stroke-width:1.25036"
-       id="rect66-2"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="898.61255"
-       inkscape:label="base_7" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient226)"
-       x="-846.61395"
-       y="877.72443"
-       id="text67-0"
-       inkscape:label="base_6"><tspan
-         sodipodi:role="line"
-         id="tspan67-6"
-         x="-846.61395"
-         y="877.72443"
-         style="font-size:18px;fill:url(#linearGradient226)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:1.25036"
-       id="rect67-8"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="854.61255"
-       inkscape:label="base_6" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient227)"
-       x="-846.61395"
-       y="833.72449"
-       id="text68-9"
-       inkscape:label="base_5"><tspan
-         sodipodi:role="line"
-         id="tspan68-2"
-         x="-846.61395"
-         y="833.72449"
-         style="font-size:18px;fill:url(#linearGradient227)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient10);fill-opacity:1;stroke-width:1.25036"
-       id="rect68-6"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="810.61255"
-       inkscape:label="base_5" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient228)"
-       x="-846.61395"
-       y="789.72449"
-       id="text69-6"
-       inkscape:label="base_4"><tspan
-         sodipodi:role="line"
-         id="tspan69-4"
-         x="-846.61395"
-         y="789.72449"
-         style="font-size:18px;fill:url(#linearGradient228)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient12);fill-opacity:1;stroke-width:1.25036"
-       id="rect69-9"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="766.61255"
-       inkscape:label="base_4" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient229)"
-       x="-846.61395"
-       y="745.72461"
-       id="text70-5"
-       inkscape:label="base_3"><tspan
-         sodipodi:role="line"
-         id="tspan70-0"
-         x="-846.61395"
-         y="745.72461"
-         style="font-size:18px;fill:url(#linearGradient229)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient14);fill-opacity:1;stroke-width:1.25036"
-       id="rect70-4"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="722.61255"
-       inkscape:label="base_3" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient230)"
-       x="-846.61395"
-       y="701.72455"
-       id="text1-0-6-8"
-       inkscape:label="base_2"><tspan
-         sodipodi:role="line"
-         id="tspan1-9-1-7"
-         x="-846.61395"
-         y="701.72455"
-         style="font-size:18px;fill:url(#linearGradient230)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient16);fill-opacity:1;stroke-width:1.25036"
-       id="rect59-1"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="678.61255"
-       inkscape:label="base_2" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient231)"
-       x="-846.61395"
-       y="657.72455"
-       id="text71-7"
-       inkscape:label="base_1"><tspan
-         sodipodi:role="line"
-         id="tspan71-2"
-         x="-846.61395"
-         y="657.72455"
-         style="font-size:18px;fill:url(#linearGradient231)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient18);fill-opacity:1;stroke-width:1.25036"
-       id="rect71-7"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="634.61255"
-       inkscape:label="base_1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient232)"
-       x="-846.61395"
-       y="613.72455"
-       id="text72-2"
-       inkscape:label="base_0"><tspan
-         sodipodi:role="line"
-         id="tspan72-2"
-         x="-846.61395"
-         y="613.72455"
-         style="font-size:18px;fill:url(#linearGradient232)">ABCabc123!@#</tspan></text>
-    <rect
-       style="fill:url(#linearGradient20);fill-opacity:1;stroke-width:1.25036"
-       id="rect72-6"
-       width="36"
-       height="36"
-       x="-906.03796"
-       y="590.61255"
-       inkscape:label="base_0" />
-    <text
-       xml:space="preserve"
-       style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient233);stroke:none;stroke-width:5;stroke-dasharray:none;paint-order:stroke fill markers"
-       x="-912.2182"
-       y="42.012634"
-       id="text81"><tspan
-         sodipodi:role="line"
-         id="tspan81"
-         x="-912.2182"
-         y="42.012634"
-         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient233);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO</tspan></text>
-    <rect
-       style="display:inline;fill:url(#linearGradient136);stroke-width:1.09204"
-       id="rect461-57-3"
-       width="720"
-       height="96"
-       x="-932.25494"
-       y="466.61255"
-       inkscape:label="bg_0"
-       inkscape:export-filename="rect461.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient234);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
-       x="-912.2182"
-       y="538.01257"
-       id="text81-3"><tspan
-         sodipodi:role="line"
-         id="tspan81-8"
-         x="-912.2182"
-         y="538.01257"
-         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient234);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO</tspan></text>
+         id="text72"
+         inkscape:label="base_0"
+         transform="translate(932.25501,29.387445)"><tspan
+           sodipodi:role="line"
+           id="tspan72"
+           x="-846.61395"
+           y="117.72456"
+           style="font-size:18px;fill:url(#linearGradient224)">ABCabc123!@#</tspan></text>
+      <rect
+         style="fill:url(#linearGradient141);fill-opacity:1;stroke-width:1.25036"
+         id="rect72"
+         width="36"
+         height="36"
+         x="-906.03796"
+         y="94.612556"
+         inkscape:label="base_0"
+         transform="translate(932.25501,29.387445)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="title">
+      <rect
+         style="display:inline;fill:url(#linearGradient82);stroke-width:1.09204"
+         id="rect461-57"
+         width="720"
+         height="96"
+         x="-1430.1553"
+         y="-309.38745"
+         inkscape:label="title_bg"
+         inkscape:export-filename="rect461.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(1430.1553,309.38745)" />
+      <text
+         xml:space="preserve"
+         style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient19);stroke:none;stroke-width:5;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="26.559967"
+         y="71.400078"
+         id="text81"
+         inkscape:label="title"><tspan
+           sodipodi:role="line"
+           id="tspan81"
+           x="26.559967"
+           y="71.400078"
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient19);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO<tspan
+   style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Medium Italic';fill:url(#linearGradient19)"
+   id="tspan1" /></tspan></text>
+    </g>
   </g>
 </svg>
