@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="palette.svg"
+   inkscape:export-filename="../palette.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +27,9 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="507.70266"
-     inkscape:cy="290.97443"
+     inkscape:zoom="1"
+     inkscape:cx="230.5"
+     inkscape:cy="465"
      inkscape:window-width="2548"
      inkscape:window-height="1400"
      inkscape:window-x="0"
@@ -38,148 +41,156 @@
      id="defs1">
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern119"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern118"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern117"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern116"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern115"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern114"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern113"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern112"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern111"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern110"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern109"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern108"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern107"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern106"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern105"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern104"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern103"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern102"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern101"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern100"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-1430.1553,-309.38745)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern99"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,0,0)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern103"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern102"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern101"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern100"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
+       preserveAspectRatio="xMidYMid"
+       id="pattern99"
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern98"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern60"
+       xlink:href="#pattern91"
        preserveAspectRatio="xMidYMid"
        id="pattern97"
        patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern96"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern95"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern94"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern93"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern60"
-       preserveAspectRatio="xMidYMid"
-       id="pattern92"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern60"
        preserveAspectRatio="xMidYMid"
        id="pattern91"
-       patternTransform="matrix(1.7320509,1,-1,1.7320509,-932.25501,-29.387445)" />
+       patternTransform="matrix(1.7320509,1,-1,1.7320509,0,0)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#Strips1_3"
@@ -201,13 +212,12 @@
        inkscape:isstock="true"
        inkscape:label="Stripes 04 (1:3)">
       <rect
-   style="stroke:none"
-   x="0"
-   y="-0.5"
-   width="1"
-   height="2"
-   id="rect152" />
-
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect152" />
     </pattern>
     <linearGradient
        id="swatch26">
@@ -866,22 +876,6 @@
        id="linearGradient527"
        gradientTransform="translate(-967.17243,2390.0497)"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch57"
-       id="linearGradient1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(6.248452,0,0,6.9140095,634.84236,-384.21067)"
-       x1="53.154125"
-       y1="163.44893"
-       x2="363.21985"
-       y2="163.44893" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient76"
-       id="linearGradient3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1318.8205,2813.6403)" />
     <rect
        x="1235.2723"
        y="220.79048"
@@ -910,318 +904,6 @@
          inkscape:label="Clip"
          id="use6" />
     </clipPath>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask91">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern91);stroke-width:15.8664"
-         id="rect91"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask92">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern92);stroke-width:15.8664"
-         id="rect92"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask93">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern93);stroke-width:15.8664"
-         id="rect93"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask94">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern94);stroke-width:15.8664"
-         id="rect94"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask95">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern95);stroke-width:15.8664"
-         id="rect95"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask96">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern96);stroke-width:15.8664"
-         id="rect96"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask97">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern97);stroke-width:15.8664"
-         id="rect97"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask98">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern98);stroke-width:15.8664"
-         id="rect98"
-         width="548.6524"
-         height="380.36099"
-         x="-919.0401"
-         y="84.390755"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask99">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern99);stroke-width:15.8664"
-         id="rect99"
-         width="548.6524"
-         height="380.36099"
-         x="13.214919"
-         y="113.7782"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask100">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern100);stroke-width:15.8664"
-         id="rect100"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask101">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern101);stroke-width:15.8664"
-         id="rect101"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask102">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern102);stroke-width:15.8664"
-         id="rect102"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask103">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern103);stroke-width:15.8664"
-         id="rect103"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask104">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern104);stroke-width:15.8664"
-         id="rect104"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask105">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern105);stroke-width:15.8664"
-         id="rect105"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask106">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern106);stroke-width:15.8664"
-         id="rect106"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask107">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern107);stroke-width:15.8664"
-         id="rect107"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask108">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern108);stroke-width:15.8664"
-         id="rect108"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask109">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern109);stroke-width:15.8664"
-         id="rect109"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask110">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern110);stroke-width:15.8664"
-         id="rect110"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask111">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern111);stroke-width:15.8664"
-         id="rect111"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask112">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern112);stroke-width:15.8664"
-         id="rect112"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask113">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern113);stroke-width:15.8664"
-         id="rect113"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask114">
-      <rect
-         style="display:inline;mix-blend-mode:normal;fill:url(#pattern114);stroke-width:15.8664"
-         id="rect114"
-         width="548.6524"
-         height="380.36099"
-         x="-1416.9404"
-         y="-195.60925"
-         inkscape:label="stripe"
-         clip-path="none" />
-    </mask>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch30"
@@ -1402,33 +1084,236 @@
        y1="255.53906"
        x2="598.97931"
        y2="255.53906" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch30"
-       id="linearGradient135"
-       gradientUnits="userSpaceOnUse"
-       x1="1236.2915"
-       y1="306.25101"
-       x2="2087.272"
-       y2="306.25101" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5175"
-       id="linearGradient137"
-       gradientUnits="userSpaceOnUse"
-       x1="1236.2915"
-       y1="306.25101"
-       x2="2087.272"
-       y2="306.25101" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3680"
-       id="linearGradient138"
-       gradientUnits="userSpaceOnUse"
-       x1="1236.2915"
-       y1="306.25101"
-       x2="2087.272"
-       y2="306.25101" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask97">
+      <path
+         id="path97"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern97);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask98">
+      <path
+         id="path98"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern98);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask99">
+      <path
+         id="path99"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern99);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask100">
+      <path
+         id="path100"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern100);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask101">
+      <path
+         id="path101"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern101);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask102">
+      <path
+         id="path102"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern102);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask103">
+      <path
+         id="path103"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern103);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -919.0401,84.390755 h 548.6524 V 464.75174 h -548.6524 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask104">
+      <path
+         id="path104"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern104);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m 13.21491,113.7782 h 548.6524 V 494.13919 H 13.21491 Z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask105">
+      <path
+         id="path105"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern105);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask106">
+      <path
+         id="path106"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern106);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask107">
+      <path
+         id="path107"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern107);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask108">
+      <path
+         id="path108"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern108);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask109">
+      <path
+         id="path109"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern109);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask110">
+      <path
+         id="path110"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern110);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask111">
+      <path
+         id="path111"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern111);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask112">
+      <path
+         id="path112"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern112);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask113">
+      <path
+         id="path113"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern113);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask114">
+      <path
+         id="path114"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern114);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask115">
+      <path
+         id="path115"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern115);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask116">
+      <path
+         id="path116"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern116);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask117">
+      <path
+         id="path117"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern117);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask118">
+      <path
+         id="path118"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern118);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask119">
+      <path
+         id="path119"
+         clip-path="none"
+         style="display:inline;fill:url(#pattern119);stroke-width:15.8664"
+         inkscape:label="stripe"
+         d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
+    </mask>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2029,14 +1914,6 @@
        x="3.0517578e-05"
        y="96"
        inkscape:label="bg" />
-    <rect
-       style="fill:url(#linearGradient1);stroke-width:6.57282"
-       id="rect56-5"
-       width="1937.431"
-       height="1292.4034"
-       x="966.97333"
-       y="99.675171"
-       inkscape:label="bg" />
     <g
        inkscape:groupmode="layer"
        id="layer8"
@@ -2048,7 +1925,8 @@
          y="145.72456"
          id="text462-6"
          inkscape:label="magenta_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan462-9"
            x="-868.51428"
@@ -2063,7 +1941,7 @@
          y="122.61256"
          inkscape:label="magenta_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask114)" />
+         mask="url(#mask119)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient9977)"
@@ -2071,7 +1949,8 @@
          y="101.72456"
          id="text463-7"
          inkscape:label="purple_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan463-4"
            x="-868.51428"
@@ -2086,7 +1965,7 @@
          y="78.612556"
          inkscape:label="purple_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask113)" />
+         mask="url(#mask118)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6379)"
@@ -2094,7 +1973,8 @@
          y="57.724556"
          id="text464-2"
          inkscape:label="blue_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan464-5"
            x="-868.51428"
@@ -2109,7 +1989,7 @@
          y="34.612556"
          inkscape:label="blue_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask112)" />
+         mask="url(#mask117)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6909)"
@@ -2117,7 +1997,8 @@
          y="13.724558"
          id="text465-7"
          inkscape:label="cyan_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan465-4"
            x="-868.51428"
@@ -2132,7 +2013,7 @@
          y="-9.3874416"
          inkscape:label="cyan_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask111)" />
+         mask="url(#mask116)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5459)"
@@ -2140,7 +2021,8 @@
          y="-30.275457"
          id="text466-3"
          inkscape:label="green_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan466-0"
            x="-868.51428"
@@ -2155,7 +2037,7 @@
          y="-53.387459"
          inkscape:label="green_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask110)" />
+         mask="url(#mask115)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient1263)"
@@ -2163,7 +2045,8 @@
          y="-74.275459"
          id="text467-8"
          inkscape:label="yellow_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan467-6"
            x="-868.51428"
@@ -2178,7 +2061,7 @@
          y="-97.387444"
          inkscape:label="yellow_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask109)" />
+         mask="url(#mask114)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient8606)"
@@ -2186,7 +2069,8 @@
          y="-118.27542"
          id="text468-8"
          inkscape:label="orange_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan468-4"
            x="-868.51428"
@@ -2201,7 +2085,7 @@
          y="-141.38742"
          inkscape:label="orange_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask108)" />
+         mask="url(#mask113)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient3680)"
@@ -2209,7 +2093,8 @@
          y="-162.27541"
          id="text469-1"
          inkscape:label="red_bright"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan469-4"
            x="-868.51428"
@@ -2224,71 +2109,7 @@
          y="-185.38744"
          inkscape:label="red_bright"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask107)" />
-      <rect
-         style="fill:url(#linearGradient8265);fill-opacity:1;stroke-width:1.25036"
-         id="rect463-3-9"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="514.20306"
-         inkscape:label="magenta_bright" />
-      <rect
-         style="fill:url(#linearGradient9977);fill-opacity:1;stroke-width:1.25036"
-         id="rect464-5-3"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="478.20306"
-         inkscape:label="purple_bright" />
-      <rect
-         style="fill:url(#linearGradient6379);fill-opacity:1;stroke-width:1.25036"
-         id="rect465-4-74"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="442.20306"
-         inkscape:label="blue_bright" />
-      <rect
-         style="fill:url(#linearGradient6909);fill-opacity:1;stroke-width:1.25036"
-         id="rect466-4-5"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="406.20306"
-         inkscape:label="cyan_bright" />
-      <rect
-         style="fill:url(#linearGradient5459);fill-opacity:1;stroke-width:1.25036"
-         id="rect467-7-2"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="370.20306"
-         inkscape:label="green_bright" />
-      <rect
-         style="fill:url(#linearGradient1263);fill-opacity:1;stroke-width:1.25036"
-         id="rect468-8-5"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="334.20306"
-         inkscape:label="yellow_bright" />
-      <rect
-         style="fill:url(#linearGradient8606);fill-opacity:1;stroke-width:1.25036"
-         id="rect469-3-4"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="298.20306"
-         inkscape:label="orange_bright" />
-      <rect
-         style="fill:url(#linearGradient3680);fill-opacity:1;stroke-width:1.25036"
-         id="rect470-9-7"
-         width="36"
-         height="36"
-         x="1162.0546"
-         y="262.20306"
-         inkscape:label="red_bright" />
+         mask="url(#mask112)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2301,7 +2122,8 @@
          y="145.72456"
          id="text462"
          inkscape:label="magenta"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan462"
            x="-1108.5143"
@@ -2316,7 +2138,7 @@
          y="122.61256"
          inkscape:label="magenta"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask106)" />
+         mask="url(#mask111)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6701)"
@@ -2324,7 +2146,8 @@
          y="101.72456"
          id="text463"
          inkscape:label="purple"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan463"
            x="-1108.5143"
@@ -2339,7 +2162,7 @@
          y="78.612556"
          inkscape:label="purple"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask105)" />
+         mask="url(#mask110)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6053)"
@@ -2347,7 +2170,8 @@
          y="57.724556"
          id="text464"
          inkscape:label="blue"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan464"
            x="-1108.5143"
@@ -2362,7 +2186,7 @@
          y="34.612556"
          inkscape:label="blue"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask104)" />
+         mask="url(#mask109)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient51)"
@@ -2370,7 +2194,8 @@
          y="13.724543"
          id="text465"
          inkscape:label="cyan"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan465"
            x="-1108.5143"
@@ -2385,7 +2210,7 @@
          y="-9.3874569"
          inkscape:label="cyan"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask103)" />
+         mask="url(#mask108)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient76)"
@@ -2393,7 +2218,8 @@
          y="-30.275457"
          id="text466"
          inkscape:label="green"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan466"
            x="-1108.5143"
@@ -2408,7 +2234,7 @@
          y="-53.387459"
          inkscape:label="green"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask102)" />
+         mask="url(#mask107)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient6173)"
@@ -2416,7 +2242,8 @@
          y="-74.275459"
          id="text467"
          inkscape:label="yellow"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan467"
            x="-1108.5143"
@@ -2431,7 +2258,7 @@
          y="-97.387459"
          inkscape:label="yellow"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask101)" />
+         mask="url(#mask106)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient7463)"
@@ -2439,7 +2266,8 @@
          y="-118.27543"
          id="text468"
          inkscape:label="orange"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan468"
            x="-1108.5143"
@@ -2454,7 +2282,7 @@
          y="-141.38744"
          inkscape:label="orange"
          transform="translate(1430.1553,309.38745)"
-         mask="url(#mask100)" />
+         mask="url(#mask105)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5175)"
@@ -2462,7 +2290,8 @@
          y="-162.27542"
          id="text469"
          inkscape:label="red"
-         transform="translate(1430.1553,309.38745)"><tspan
+         transform="translate(1430.1553,309.38745)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan469"
            x="-1108.5143"
@@ -2476,71 +2305,7 @@
          x="270.21695"
          y="124"
          inkscape:label="red"
-         mask="url(#mask99)" />
-      <rect
-         style="fill:url(#linearGradient1924);fill-opacity:1;stroke-width:1.25036"
-         id="rect463-1"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="514.20306"
-         inkscape:label="magenta" />
-      <rect
-         style="fill:url(#linearGradient6701);fill-opacity:1;stroke-width:1.25036"
-         id="rect464-94"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="478.20306"
-         inkscape:label="purple" />
-      <rect
-         style="fill:url(#linearGradient6053);fill-opacity:1;stroke-width:1.25036"
-         id="rect465-7"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="442.20306"
-         inkscape:label="blue" />
-      <rect
-         style="fill:url(#linearGradient51);fill-opacity:1;stroke-width:1.25036"
-         id="rect466-84"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="406.20306"
-         inkscape:label="cyan" />
-      <rect
-         style="fill:url(#linearGradient3);fill-opacity:1;stroke-width:1.25036"
-         id="rect467-5"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="370.20306"
-         inkscape:label="green" />
-      <rect
-         style="fill:url(#linearGradient6173);fill-opacity:1;stroke-width:1.25036"
-         id="rect468-03"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="334.20306"
-         inkscape:label="yellow" />
-      <rect
-         style="fill:url(#linearGradient7463);fill-opacity:1;stroke-width:1.25036"
-         id="rect469-6"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="298.20306"
-         inkscape:label="orange" />
-      <rect
-         style="fill:url(#linearGradient5175);fill-opacity:1;stroke-width:1.25036"
-         id="rect470-10"
-         width="36"
-         height="36"
-         x="1126.0546"
-         y="262.20306"
-         inkscape:label="red" />
+         mask="url(#mask104)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2553,7 +2318,8 @@
          y="425.72452"
          id="text66"
          inkscape:label="base_7"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan66"
            x="-846.61395"
@@ -2568,7 +2334,7 @@
          y="402.61252"
          inkscape:label="base_7"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask98)" />
+         mask="url(#mask103)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient124)"
@@ -2576,7 +2342,8 @@
          y="381.72452"
          id="text67"
          inkscape:label="base_6"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan67"
            x="-846.61395"
@@ -2591,7 +2358,7 @@
          y="358.61252"
          inkscape:label="base_6"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask97)" />
+         mask="url(#mask102)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient125)"
@@ -2599,7 +2366,8 @@
          y="337.72452"
          id="text68"
          inkscape:label="base_5"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan68"
            x="-846.61395"
@@ -2614,7 +2382,7 @@
          y="314.61252"
          inkscape:label="base_5"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask96)" />
+         mask="url(#mask101)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient126)"
@@ -2622,7 +2390,8 @@
          y="293.72452"
          id="text69"
          inkscape:label="base_4"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan69"
            x="-846.61395"
@@ -2637,7 +2406,7 @@
          y="270.61255"
          inkscape:label="base_4"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask95)" />
+         mask="url(#mask100)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient128)"
@@ -2645,7 +2414,8 @@
          y="249.72455"
          id="text70"
          inkscape:label="base_3"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan70"
            x="-846.61395"
@@ -2660,7 +2430,7 @@
          y="226.61255"
          inkscape:label="base_3"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask94)" />
+         mask="url(#mask99)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient130)"
@@ -2668,7 +2438,8 @@
          y="205.72455"
          id="text1-0-6"
          inkscape:label="base_2"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan1-9-1"
            x="-846.61395"
@@ -2683,7 +2454,7 @@
          y="182.61256"
          inkscape:label="base_2"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask93)" />
+         mask="url(#mask98)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient132)"
@@ -2691,7 +2462,8 @@
          y="161.72456"
          id="text71"
          inkscape:label="base_1"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan71"
            x="-846.61395"
@@ -2706,7 +2478,7 @@
          y="138.61256"
          inkscape:label="base_1"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask92)" />
+         mask="url(#mask97)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient133)"
@@ -2714,7 +2486,8 @@
          y="117.72456"
          id="text72"
          inkscape:label="base_0"
-         transform="translate(932.25501,29.387445)"><tspan
+         transform="translate(932.25501,29.387445)"
+         mask="none"><tspan
            sodipodi:role="line"
            id="tspan72"
            x="-846.61395"
@@ -2729,7 +2502,7 @@
          y="94.612556"
          inkscape:label="base_0"
          transform="translate(932.25501,29.387445)"
-         mask="url(#mask91)" />
+         mask="none" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2762,64 +2535,5 @@
    style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Medium Italic';fill:url(#linearGradient134)"
    id="tspan1" /></tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       id="text3"
-       style="font-size:13px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:url(#linearGradient135);stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"><tspan
-         x="1235.2715"
-         y="232.16602"
-         id="tspan2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore </tspan><tspan
-         x="1235.2715"
-         y="248.41602"
-         id="tspan3">magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </tspan><tspan
-         x="1235.2715"
-         y="264.66602"
-         id="tspan4">consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla </tspan><tspan
-         x="1235.2715"
-         y="280.91602"
-         id="tspan5">pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est </tspan><tspan
-         x="1235.2715"
-         y="297.16602"
-         id="tspan6">laborum.</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text3-6"
-       style="font-size:13px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-1);display:inline;fill:url(#linearGradient137);fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       transform="translate(-2.9702042,202.46559)"><tspan
-         x="1235.2715"
-         y="232.16602"
-         id="tspan7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore </tspan><tspan
-         x="1235.2715"
-         y="248.41602"
-         id="tspan8">magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo </tspan><tspan
-         x="1235.2715"
-         y="264.66602"
-         id="tspan9">consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla </tspan><tspan
-         x="1235.2715"
-         y="280.91602"
-         id="tspan10">pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est </tspan><tspan
-         x="1235.2715"
-         y="297.16602"
-         id="tspan11">laborum.</tspan></text>
-    <text
-       xml:space="preserve"
-       id="text3-6-1"
-       style="font-size:13px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3-1-4);display:inline;fill:url(#linearGradient138);stroke-width:5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-       transform="translate(-8.4916209,403.16248)"><tspan
-         x="1235.2715"
-         y="232.16602"
-         id="tspan12">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore </tspan><tspan
-         x="1235.2715"
-         y="248.41602"
-         id="tspan13">magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut asliquip ex ea commodo </tspan><tspan
-         x="1235.2715"
-         y="264.66602"
-         id="tspan14">consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla </tspan><tspan
-         x="1235.2715"
-         y="280.91602"
-         id="tspan15">pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est </tspan><tspan
-         x="1235.2715"
-         y="297.16602"
-         id="tspan16">laborum.</tspan></text>
   </g>
 </svg>
