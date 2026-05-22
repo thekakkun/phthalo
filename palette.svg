@@ -27,16 +27,16 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2"
-     inkscape:cx="493.5"
-     inkscape:cy="330"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="553.31104"
+     inkscape:cy="444.06305"
      inkscape:window-width="2548"
      inkscape:window-height="1400"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showborder="true"
-     inkscape:current-layer="layer7" />
+     inkscape:current-layer="layer8" />
   <defs
      id="defs1">
     <pattern
@@ -716,7 +716,7 @@
     <linearGradient
        inkscape:label="red"
        inkscape:swatch="solid"
-       gradientTransform="translate(2608.0103,3698.1282)"
+       gradientTransform="translate(4159.788,4004.6872)"
        id="linearGradient5175">
       <stop
          style="stop-color:#cc6d66;stop-opacity:1;"
@@ -1139,6 +1139,33 @@
          inkscape:label="stripe"
          d="m -1416.9404,-195.60925 h 548.65241 v 380.36099 h -548.65241 z" />
     </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5175"
+       id="linearGradient3"
+       x1="-610.03796"
+       y1="608.61261"
+       x2="-482.47189"
+       y2="608.61261"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7463"
+       id="linearGradient5"
+       x1="-610.03796"
+       y1="652.61261"
+       x2="-482.47189"
+       y2="652.61261"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6173"
+       id="linearGradient7"
+       x1="-610.03796"
+       y1="696.61255"
+       x2="-482.47189"
+       y2="696.61255"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1269,7 +1296,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch18)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient7)"
          x="-610.61395"
          y="701.72455"
          id="text467-3"
@@ -1279,7 +1306,7 @@
            id="tspan467-61"
            x="-610.61395"
            y="701.72455"
-           style="font-size:18px;fill:url(#swatch18)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient7)">ABCabc123!@#</tspan></text>
       <rect
          style="fill:url(#linearGradient6173);fill-opacity:1;stroke-width:1.25036"
          id="rect468-0"
@@ -1291,7 +1318,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch36)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5)"
          x="-610.61395"
          y="657.72461"
          id="text468-6"
@@ -1301,7 +1328,7 @@
            id="tspan468-3"
            x="-610.61395"
            y="657.72461"
-           style="font-size:18px;fill:url(#swatch36)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient5)">ABCabc123!@#</tspan></text>
       <rect
          style="fill:url(#linearGradient7463);fill-opacity:1;stroke-width:1.25036"
          id="rect469-2"
@@ -1313,7 +1340,7 @@
          transform="translate(932.25501,29.387445)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#swatch8)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient3)"
          x="-610.61395"
          y="613.72461"
          id="text469-0"
@@ -1323,7 +1350,7 @@
            id="tspan469-6"
            x="-610.61395"
            y="613.72461"
-           style="font-size:18px;fill:url(#swatch8)">ABCabc123!@#</tspan></text>
+           style="font-size:18px;fill:url(#linearGradient3)">ABCabc123!@#</tspan></text>
       <rect
          style="fill:url(#linearGradient5175);fill-opacity:1;stroke-width:1.25036"
          id="rect470-1"
@@ -1918,8 +1945,8 @@
          y="-162.27541"
          id="text469-1"
          inkscape:label="red_bright"
-         transform="translate(1430.1553,309.38745)"
-         mask="none"><tspan
+         mask="none"
+         transform="translate(1430.1553,309.38745)"><tspan
            sodipodi:role="line"
            id="tspan469-4"
            x="-868.51428"
@@ -2131,20 +2158,6 @@
          y="124"
          inkscape:label="red"
          mask="url(#mask104)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;display:inline;fill:url(#linearGradient5175)"
-         x="-1108.5143"
-         y="-162.27542"
-         id="text2"
-         inkscape:label="red"
-         transform="translate(1430.1553,309.38745)"
-         mask="none"><tspan
-           sodipodi:role="line"
-           id="tspan2"
-           x="-1108.5143"
-           y="-162.27542"
-           style="font-size:18px;fill:url(#linearGradient5175)">ABCabc123!@#</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2361,7 +2374,7 @@
          transform="translate(1430.1553,309.38745)" />
       <text
          xml:space="preserve"
-         style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-dasharray:none;paint-order:stroke fill markers"
+         style="font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:SourceCodeVF;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-dasharray:none;paint-order:stroke fill markers"
          x="26.559967"
          y="71.400078"
          id="text81"
@@ -2370,9 +2383,7 @@
            id="tspan81"
            x="26.559967"
            y="71.400078"
-           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO<tspan
-   style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Medium Italic';fill:url(#linearGradient134)"
-   id="tspan1" /></tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO</tspan></text>
     </g>
   </g>
 </svg>
