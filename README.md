@@ -1,3 +1,3 @@
 # PHTHALO
 
-![The color palette for PHTHALO](palette.png)
+![The pthalo color pallete for dark mode](palette_dark.png)
