@@ -27,16 +27,16 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2.4933847"
+     inkscape:zoom="1.2751366"
      inkscape:cx="360.35354"
-     inkscape:cy="247.85586"
-     inkscape:window-width="2548"
-     inkscape:window-height="1400"
+     inkscape:cy="248.2087"
+     inkscape:window-width="1492"
+     inkscape:window-height="964"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showborder="true"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer8" />
   <defs
      id="defs1">
     <pattern
@@ -449,7 +449,7 @@
        gradientTransform="translate(1246.8203,2657.6401)"
        id="linearGradient6909">
       <stop
-         style="stop-color:#4ba682;stop-opacity:1;"
+         style="stop-color:#4ba67a;stop-opacity:1;"
          offset="0"
          id="stop25-1" />
     </linearGradient>
@@ -459,7 +459,7 @@
        gradientTransform="translate(670.82047,2849.6402)"
        id="linearGradient5459">
       <stop
-         style="stop-color:#7c9f25;stop-opacity:1;"
+         style="stop-color:#859c25;stop-opacity:1;"
          offset="0"
          id="stop10-1" />
     </linearGradient>
@@ -469,7 +469,7 @@
        gradientTransform="translate(1440.325,2962.4122)"
        id="linearGradient1263">
       <stop
-         style="stop-color:#c4a519;stop-opacity:1;"
+         style="stop-color:#cba219;stop-opacity:1;"
          offset="0"
          id="stop18-1" />
     </linearGradient>
@@ -479,7 +479,7 @@
        gradientTransform="translate(-1593.6937,2050.1259)"
        id="linearGradient8606">
       <stop
-         style="stop-color:#df933f;stop-opacity:1;"
+         style="stop-color:#e48e3f;stop-opacity:1;"
          offset="0"
          id="stop36-1" />
     </linearGradient>
@@ -489,7 +489,7 @@
        gradientTransform="translate(526.82047,3425.6399)"
        id="linearGradient3680">
       <stop
-         style="stop-color:#e15f5a;stop-opacity:1;"
+         style="stop-color:#e15f65;stop-opacity:1;"
          offset="0"
          id="stop8-1" />
     </linearGradient>
@@ -529,7 +529,7 @@
        gradientTransform="translate(1894.8206,2621.6403)"
        id="linearGradient51">
       <stop
-         style="stop-color:#429474;stop-opacity:1;"
+         style="stop-color:#42946c;stop-opacity:1;"
          offset="0"
          id="stop25-1-1-1" />
     </linearGradient>
@@ -539,7 +539,7 @@
        gradientTransform="translate(-967.17243,2390.0497)"
        id="linearGradient76">
       <stop
-         style="stop-color:#6d8d20;stop-opacity:1;"
+         style="stop-color:#768a20;stop-opacity:1;"
          offset="0"
          id="stop10-1-1-1" />
     </linearGradient>
@@ -549,7 +549,7 @@
        gradientTransform="translate(2088.3252,2926.4125)"
        id="linearGradient6173">
       <stop
-         style="stop-color:#b29617;stop-opacity:1;"
+         style="stop-color:#b79217;stop-opacity:1;"
          offset="0"
          id="stop18-1-1-1" />
     </linearGradient>
@@ -559,7 +559,7 @@
        gradientTransform="translate(-1185.6936,2050.1261)"
        id="linearGradient7463">
       <stop
-         style="stop-color:#cc8535;stop-opacity:1;"
+         style="stop-color:#d18035;stop-opacity:1;"
          offset="0"
          id="stop36-1-1-1" />
     </linearGradient>
@@ -569,7 +569,7 @@
        gradientTransform="translate(3637.1777,4018.2055)"
        id="linearGradient5175">
       <stop
-         style="stop-color:#d54c49;stop-opacity:1;"
+         style="stop-color:#d54c55;stop-opacity:1;"
          offset="0"
          id="stop8-1-1-1" />
     </linearGradient>
@@ -1361,7 +1361,7 @@
        mask="none"><tspan
          x="-1108.5143"
          y="-118.27543"
-         id="tspan2">ABCabc123!@#</tspan></text>
+         id="tspan1">ABCabc123!@#</tspan></text>
     <rect
        style="fill:url(#linearGradient7463);fill-opacity:1;stroke-width:1.25036"
        id="rect469"
