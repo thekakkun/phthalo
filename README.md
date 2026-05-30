@@ -1,3 +1,3 @@
-# PHTHALO
+# Nightshade
 
-![The pthalo color pallete for dark mode](palette_dark.png)
+![The dark mode color palette for nightshade](palette_dark.png)

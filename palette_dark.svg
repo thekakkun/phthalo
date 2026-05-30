@@ -27,16 +27,16 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.2751366"
-     inkscape:cx="360.35354"
-     inkscape:cy="248.2087"
-     inkscape:window-width="1492"
-     inkscape:window-height="964"
+     inkscape:zoom="2.493713"
+     inkscape:cx="360.5066"
+     inkscape:cy="247.82322"
+     inkscape:window-width="2548"
+     inkscape:window-height="1400"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showborder="true"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <pattern
@@ -1361,7 +1361,7 @@
        mask="none"><tspan
          x="-1108.5143"
          y="-118.27543"
-         id="tspan1">ABCabc123!@#</tspan></text>
+         id="tspan2">ABCabc123!@#</tspan></text>
     <rect
        style="fill:url(#linearGradient7463);fill-opacity:1;stroke-width:1.25036"
        id="rect469"
@@ -1650,6 +1650,6 @@
          id="tspan81"
          x="26.559967"
          y="71.400078"
-         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">PHTHALO</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72px;font-family:SourceCodeVF;-inkscape-font-specification:'SourceCodeVF Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill:url(#linearGradient134);stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none">NIGHTSHADE</tspan></text>
   </g>
 </svg>
